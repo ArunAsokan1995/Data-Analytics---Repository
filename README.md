@@ -1,2 +1,2 @@
-# Statistics-Repository
-Data Analytics - Statistics Assignment- Mean, Median and Mode
+# Data Analytics - Repository
+Data Analytics - Assignment and Projects
